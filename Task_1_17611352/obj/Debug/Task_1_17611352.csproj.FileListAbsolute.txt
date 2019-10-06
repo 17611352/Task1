@@ -1,0 +1,10 @@
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\bin\Debug\Task_1_17611352.exe.config
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\bin\Debug\Task_1_17611352.exe
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\bin\Debug\Task_1_17611352.pdb
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\obj\Debug\Task_1_17611352.csprojAssemblyReference.cache
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\obj\Debug\Task_1_17611352.Form1.resources
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\obj\Debug\Task_1_17611352.Properties.Resources.resources
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\obj\Debug\Task_1_17611352.csproj.GenerateResource.cache
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\obj\Debug\Task_1_17611352.csproj.CoreCompileInputs.cache
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\obj\Debug\Task_1_17611352.exe
+C:\Users\jaden\Documents\Game Design_Course_2\GADE_2\Task_1_17611352\Task_1_17611352\obj\Debug\Task_1_17611352.pdb
